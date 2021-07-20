@@ -3,15 +3,14 @@
 </h1>
 
 <h1 align="center">
-  <img alt="devfinaces" title="" src="logo.png" width="100%" />
+  <img alt="devfinaces" title="" src="logo.png" width="50%" />
 </h1>
 
 <br></br>
 
 <p align="center">
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
