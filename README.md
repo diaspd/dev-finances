@@ -1,5 +1,9 @@
 <h1 align="center">
-  Título
+  Dev-Finances
+</h1>
+
+<h1 align="center">
+  <img alt="devfinaces" title="" src="logo.png" width="100%" />
 </h1>
 
 <br></br>
@@ -13,7 +17,7 @@
 <br>
 
 <h1 align="center">
-  <img alt="" title="" src="" width="100%" />
+  <img alt="devfinaces" title="" src="devfinances.png" width="100%" />
 </h1>
 
 
@@ -23,7 +27,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/
+$ git clone https://github.com/diaspd/Dev-Finances.git
 $ cd 
 ```
 
@@ -43,21 +47,14 @@ The app will be available for access on your browser at http://localhost:3000
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- 
-- 
-- 
--
--
--
+- Html
+- Css
+- JavaScript
 
 
 ## 📄 Project
-💰
+💰Um projeto para gerir finanças
 
-<br></br>
-
-## 🔖 Layout
-📄
 
 <br></br>
 
