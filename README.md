@@ -52,7 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 📄 Project
-💰Um projeto para gerir finanças
+💰A project for finance management
 
 
 <br></br>
