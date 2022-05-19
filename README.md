@@ -41,14 +41,14 @@ The app will be available for access on your browser at http://localhost:3000
 ## 💻 Technologies
 
 This project was developed with the following technologies:
-
+<b>
 - Html
 - Css
 - JavaScript
-
+</b>
 
 ## 📄 Project
-💰A project for finance management
+💰A project for finance management.
 
 
 <br></br>
