@@ -48,7 +48,7 @@ This project was developed with the following technologies:
 </b>
 
 ## 📄 Project
-💰A project for finance management.
+💰 A project for finance management.
 
 
 <br></br>
