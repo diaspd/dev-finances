@@ -22,7 +22,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/diaspd/Dev-Finances.git
+$ git clone https://github.com/diaspd/dev-finances.git
 $ cd 
 ```
 
