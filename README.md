@@ -32,9 +32,9 @@ Follow the steps below:
 $ npm i
 
 # Start the project
-// run index file
+/ run index file
 ```
-The app will be available for access on your browser at http://localhost:5500
+The app will be available for access on your browser at your local host
 
 <br></br>
 
