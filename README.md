@@ -28,8 +28,6 @@ $ cd
 
 Follow the steps below:
 ```bash
-# Install the dependencies
-$ npm i
 
 # Start the project
 / run index file
