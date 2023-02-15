@@ -30,7 +30,7 @@ Follow the steps below:
 ```bash
 
 # Start the project
-/ run index file
+// run index file
 ```
 The app will be available for access on your browser at your local host
 
