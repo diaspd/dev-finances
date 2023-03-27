@@ -42,11 +42,13 @@ This project was developed with the following technologies:
 - JavaScript
 </b>
 
+</br>
+
 ## 📄 Project
 💰 A project for finance management.
 
 <br></br>
 
-Made with ♥ by Pedro Dias. 👋 Follow me on social media! <br></br>
+Made with ♥ by Pedro Dias. 👋 Follow me on social media! </br>
 
 If you can give a little star, I appreciate it 🤩
