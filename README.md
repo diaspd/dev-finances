@@ -29,7 +29,7 @@ Follow the steps below:
 # Start the project
 // run index file
 ```
-The app will be available for access on your browser at your local host
+``The app will be available for access on your browser at your local host``
 
 <br></br>
 
