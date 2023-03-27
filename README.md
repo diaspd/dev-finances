@@ -2,19 +2,16 @@
   <img alt="devfinaces" title="" src="logo.png" width="50%" />
 </h1>
 
-<br></br>
-
 <p align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+</br>
 
 <h1 align="center">
   <img alt="devfinaces" title="" src="devfinances.png" width="100%" />
 </h1>
-
 
 
 ## 🚀 Getting started
