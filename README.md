@@ -9,9 +9,9 @@
 
 </br>
 
-<h1 align="center">
+<div align="center">
   <img alt="devfinaces" title="" src="devfinances.png" width="100%" />
-</h1>
+</div>
 
 
 ## 🚀 Getting started
