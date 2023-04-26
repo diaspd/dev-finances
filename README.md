@@ -49,6 +49,11 @@ This project was developed with the following technologies:
 
 <br></br>
 
+## 🔖 Layout
+- [Dev-Finances - Figma](https://www.figma.com/community/file/1036772269145705053)
+
+</br>
+
 Made with ♥ by Pedro Dias. 👋 Follow me on social media! </br>
 
 If you can give a little star, I appreciate it 🤩
