@@ -8,7 +8,7 @@
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-</br>
+---
 
 <div align="center">
   <img alt="devfinaces" title="" src="devfinances.png" width="100%" />
@@ -46,7 +46,7 @@ This project was developed with the following technologies:
 </br>
 
 ## 📄 Project
-💰 A project for finance management.
+💰 A project for finance management usint HTML, CSS and JS.
 
 <br></br>
 
