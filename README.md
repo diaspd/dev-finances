@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="devfinaces" title="" src="logo.png" width="50%" />
+  <img alt="devfinaces" title="" src="logo.png" width="65%" />
 </h1>
 
 <p align="center">
@@ -46,7 +46,7 @@ This project was developed with the following technologies:
 </br>
 
 ## 📄 Project
-💰 A project for finance management usint HTML, CSS and JS.
+💰 A project for finance management.
 
 <br></br>
 
