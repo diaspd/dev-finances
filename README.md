@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="devfinaces" title="" src="logo.png" width="65%" />
+  <img alt="devfinaces" title="" src="logo.png" width="50%" />
 </h1>
 
 <p align="center">
